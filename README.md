@@ -1,6 +1,7 @@
-NLP-MultilingualConer2023
 
-Multilingual Named Entity Recognition (NER) using the MultiCoNER-II database. Here's a summary of the key points:
+Multilingual Named Entity Recognition (NER) using the MultiCoNER-II database-2023. 
+
+Here's a summary of the key points:
 
 Introduction to NER: Named Entity Recognition is a crucial task in Natural Language Processing (NLP) that involves identifying and classifying entities in text, such as person names, organization names, etc.
 
@@ -18,4 +19,4 @@ Discussion: The discussion emphasizes the effectiveness of the ensemble model, p
 
 Conclusion and Future Work: The paper concludes that the developed ensemble model shows promising results for multilingual NER. Future work could focus on exploring advanced tools and techniques, as well as addressing dataset limitations and complexities.
 
-contact me for more detail
+Queries are welcomed 
